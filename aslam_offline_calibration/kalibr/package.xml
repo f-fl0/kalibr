@@ -24,6 +24,7 @@
 
   <run_depend>aslam_cv_backend_python</run_depend>
   <run_depend>aslam_backend_python</run_depend>
+  <run_depend>cv_bridge</run_depend>
   <run_depend>incremental_calibration_python</run_depend>
   <run_depend>aslam_splines_python</run_depend>
 
